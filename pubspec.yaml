@@ -42,9 +42,8 @@ dependencies:
   fl_chart: ^0.68.0
   http: ^1.2.2
   provider: ^6.0.5
-=======
-     
-  sqflite: ^2.0.0+4
+
+      sqflite: ^2.0.0+4
   path: ^1.8.2
   fl_chart: ^0.68.0
   http: ^1.2.2
@@ -71,7 +70,6 @@ dev_dependencies:
 =======
   image_picker: ^1.2.1
   home_widget: ^0.9.0
->>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
