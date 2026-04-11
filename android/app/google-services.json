@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738026429256",
+    "project_id": "mi-app-ejercicio-2f198",
+    "storage_bucket": "mi-app-ejercicio-2f198.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738026429256:android:e1b289a3f10b6a08feb17d",
+        "android_client_info": {
+          "package_name": "com.example.mi_app_ejercicio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOVMZ7_iky1qhYAvEh0r7RzVAsUZNszg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
