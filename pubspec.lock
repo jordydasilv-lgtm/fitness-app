@@ -17,6 +17,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.13.1"
+<<<<<<< HEAD
   boolean_selector:
     dependency: transitive
     description:
@@ -25,6 +26,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.2"
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   characters:
     dependency: transitive
     description:
@@ -97,6 +100,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.8"
+<<<<<<< HEAD
   fake_async:
     dependency: transitive
     description:
@@ -105,6 +109,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.3.3"
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   ffi:
     dependency: transitive
     description:
@@ -167,7 +173,11 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_lints:
+<<<<<<< HEAD
     dependency: "direct dev"
+=======
+    dependency: "direct main"
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
     description:
       name: flutter_lints
       sha256: "3105dc8492f6183fb076ccf1f351ac3d60564bff92e20bfc4af9cc1651f4e7e1"
@@ -214,11 +224,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.34"
+<<<<<<< HEAD
   flutter_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   flutter_timezone:
     dependency: "direct main"
     description:
@@ -252,10 +265,17 @@ packages:
     dependency: "direct main"
     description:
       name: home_widget
+<<<<<<< HEAD
       sha256: "29565bfee4b32eaf9e7e8b998d504618b779a74b2b1ac62dd4dac7468e66f1a3"
       url: "https://pub.dev"
     source: hosted
     version: "0.5.0"
+=======
+      sha256: d794a73894012459a4c63b94a6dc2cb3ccaa6eb08fb15b974aa7ac642594aed5
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.9.0"
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   hooks:
     dependency: transitive
     description:
@@ -360,6 +380,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.1"
+<<<<<<< HEAD
   leak_tracker:
     dependency: transitive
     description:
@@ -384,6 +405,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.2"
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   lints:
     dependency: transitive
     description:
@@ -400,6 +423,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.3.0"
+<<<<<<< HEAD
   matcher:
     dependency: transitive
     description:
@@ -408,6 +432,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.12.19"
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   material_color_utilities:
     dependency: transitive
     description:
@@ -473,7 +499,11 @@ packages:
     source: hosted
     version: "1.9.1"
   path_provider:
+<<<<<<< HEAD
     dependency: "direct dev"
+=======
+    dependency: transitive
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
     description:
       name: path_provider
       sha256: "50c5dd5b6e1aaf6fb3a78b33f6aa3afca52bf903a8a5298f53101fdaee55bbcd"
@@ -725,6 +755,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.4.0"
+<<<<<<< HEAD
   stack_trace:
     dependency: transitive
     description:
@@ -741,6 +772,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.4"
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   string_scanner:
     dependency: transitive
     description:
@@ -765,6 +798,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.2"
+<<<<<<< HEAD
   test_api:
     dependency: transitive
     description:
@@ -773,6 +807,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.7.10"
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   timezone:
     dependency: "direct main"
     description:
@@ -797,6 +833,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.2.0"
+<<<<<<< HEAD
   vm_service:
     dependency: transitive
     description:
@@ -805,6 +842,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "15.0.2"
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   web:
     dependency: transitive
     description:

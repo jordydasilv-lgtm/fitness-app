@@ -28,27 +28,45 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+<<<<<<< HEAD
   image_picker: ^1.0.0
   home_widget: ^0.5.0
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   flutter:
     sdk: flutter
   shared_preferences: ^2.2.2
   flutter_local_notifications: ^21.0.0
   flutter_timezone: ^5.0.2
   timezone: ^0.11.0
+<<<<<<< HEAD
   sqflite: ^2.0.4
   path: ^1.8.2
   fl_chart: ^0.68.0
   http: ^1.2.2
   provider: ^6.0.5
+=======
+     
+  sqflite: ^2.0.0+4
+  path: ^1.8.2
+  fl_chart: ^0.68.0
+  http: ^1.2.2
+
+  provider: ^6.0.5
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
   cupertino_icons: ^1.0.8
   pedometer: ^4.0.1
   permission_handler: ^11.3.0
   google_nav_bar: ^5.0.6
 
+<<<<<<< HEAD
 dev_dependencies:
   flutter_test:
     sdk: flutter
+=======
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
  
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -56,7 +74,12 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^6.0.0
+<<<<<<< HEAD
   path_provider: ^2.1.5
+=======
+  image_picker: ^1.2.1
+  home_widget: ^0.9.0
+>>>>>>> f290b6672725269e7aabf76cb090c94a3b853b0d
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
